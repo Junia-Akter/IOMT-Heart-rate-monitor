@@ -1,0 +1,5 @@
+project.pico-go
+.vscode/
+.picowgo
+/README.md
+.DS_STORE
