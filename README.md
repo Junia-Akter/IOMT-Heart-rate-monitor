@@ -56,6 +56,7 @@ Devices like apple watches and fit bits track your heart rate all the time. This
 <li>With the Pico W on the breadboard, attach the connector on the Keyestudio Pulse Monitor labeled G (ground) to j-3 (column j, row 3) of the breadboard. Attach the connector labeled V to j-5, and S to j-7</li>
 <li>Connect the resistor to a-18 and the ground (-) in the same row.</li>
 <li>Connect the LED to a-20 and the ground in the same row.</li>
+</ol>
 <br>
 
 <h2><u>Using Raspberry Pi Pico W</u></h2>
